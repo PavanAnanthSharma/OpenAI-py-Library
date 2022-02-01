@@ -154,4 +154,4 @@ issues, please let us know at support@openai.com.
 
 ## Credit
 
-This library is forked from the [Stripe Python Library](https://github.com/stripe/stripe-python).
+This library is inspiredfrom the [Stripe Python Library](https://github.com/stripe/stripe-python).
