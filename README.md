@@ -161,6 +161,8 @@ Examples of fine tuning are shared in the following Jupyter notebooks:
 
 For more information on fine tuning, read the [fine-tuning guide](https://beta.openai.com/docs/guides/fine-tuning) in the OpenAI documentation.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Requirements
 
 - Python 3.7.1+
