@@ -171,6 +171,8 @@ In general we want to support the versions of Python that our
 customers are using, so if you run into issues with any version
 issues, please let us know at support@openai.com.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Credit
 
 This library is inspired from the [Stripe Python Library](https://github.com/stripe/stripe-python).
