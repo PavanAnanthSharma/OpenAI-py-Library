@@ -145,6 +145,8 @@ Examples of how to use embeddings are shared in the following Jupyter notebooks:
 
 For more information on embeddings and the types of embeddings OpenAI offers, read the [embeddings guide](https://beta.openai.com/docs/guides/embeddings) in the OpenAI documentation.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Fine tuning
 
 Fine tuning a model on training data can both improve the results (by giving the model more examples to learn from) and reduce the cost & latency of API calls (by reducing the need to include training examples in prompts).
