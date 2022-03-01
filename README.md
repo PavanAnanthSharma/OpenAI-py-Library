@@ -13,6 +13,8 @@ with a wide range of versions of the OpenAI API.
 
 See the [OpenAI API docs](https://beta.openai.com/docs/api-reference?lang=python).
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Installation
 
 You don't need this source code unless you want to modify the package. If you just
