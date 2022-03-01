@@ -87,6 +87,8 @@ print(search)
 ```
 Please note that for the moment, the Microsoft Azure endpoints can only be used for completion and search operations.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Command-line interface
 
 This library additionally provides an `openai` command-line utility
