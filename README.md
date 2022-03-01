@@ -103,6 +103,8 @@ openai api engines.list
 openai api completions.create -e ada -p "Hello world"
 ```
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Example code
 
 Examples of how to use [embeddings](https://github.com/openai/openai-python/tree/main/examples/embeddings), [fine tuning](https://github.com/openai/openai-python/tree/main/examples/finetuning), [semantic search](https://github.com/openai/openai-python/tree/main/examples/semanticsearch), and [codex](https://github.com/openai/openai-python/tree/main/examples/codex) can be found in the [examples folder](https://github.com/openai/openai-python/tree/main/examples).
