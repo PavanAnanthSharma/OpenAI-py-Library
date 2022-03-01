@@ -176,3 +176,5 @@ issues, please let us know at support@openai.com.
 ## Credit
 
 This library is inspired from the [Stripe Python Library](https://github.com/stripe/stripe-python).
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
