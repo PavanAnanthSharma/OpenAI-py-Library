@@ -3,7 +3,7 @@ import os
 import signal 
 import sys 
 import warnings 
-from functools import partial
+from functools import partial 
 from typing import Optional 
 
 import requests
