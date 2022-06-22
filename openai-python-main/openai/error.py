@@ -2,7 +2,7 @@ import openai
  
  
 class OpenAIError(Exception): 
-    def __init__(
+    def __init__( 
         self,
         message=None,
         http_body=None,
