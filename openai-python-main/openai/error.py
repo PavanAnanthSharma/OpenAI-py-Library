@@ -3,7 +3,7 @@ import openai
  
 class OpenAIError(Exception): 
     def __init__( 
-        self,
+        self, 
         message=None,
         http_body=None,
         http_status=None,
