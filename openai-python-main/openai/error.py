@@ -1,7 +1,7 @@
 import openai 
  
  
-class OpenAIError(Exception):
+class OpenAIError(Exception): 
     def __init__(
         self,
         message=None,
