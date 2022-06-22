@@ -6,7 +6,7 @@ import warnings
 from functools import partial 
 from typing import Optional 
 
-import requests
+import requests 
 
 import openai
 from openai.upload_progress import BufferReader
