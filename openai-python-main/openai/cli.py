@@ -6,8 +6,7 @@ import warnings
 from functools import partial 
 from typing import Optional 
 import requests 
-
-import openai
+import openai 
 from openai.upload_progress import BufferReader
 from openai.validators import (
     apply_necessary_remediation,
