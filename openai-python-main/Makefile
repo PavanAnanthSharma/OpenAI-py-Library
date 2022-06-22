@@ -6,4 +6,3 @@ build:
 upload:
 	twine upload dist/openai-*.tar.gz
 	rm dist/openai-*.tar.gz
-
