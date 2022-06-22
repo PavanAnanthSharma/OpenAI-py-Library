@@ -16,7 +16,7 @@ from openai.validators import (
     read_any_format, 
     write_out_file, 
     write_out_search_file, 
-)
+) 
 
 
 class bcolors:
