@@ -1,6 +1,5 @@
 from typing import Optional
 
-
 class OpenAIResponse:
     def __init__(self, data, headers):
         self._headers = headers
