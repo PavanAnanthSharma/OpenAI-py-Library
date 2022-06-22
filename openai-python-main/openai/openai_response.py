@@ -18,5 +18,3 @@ class OpenAIResponse:
     def response_ms(self) -> Optional[int]:
         h = self._headers.get("Openai-Processing-Ms")
         return None if h is None else round(float(h))
-
-    
